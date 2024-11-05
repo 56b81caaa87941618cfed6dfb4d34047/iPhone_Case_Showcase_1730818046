@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "CaseMaster",
+        "HERO_HEADING_TEXT": "Protect Your iPhone in Style",
+        "HERO_SUBHEADING_TEXT": "Discover our premium collection of iPhone cases that blend durability with sleek design",
+        "FOOTER_TEXT": "\u00a9 2023 CaseMaster. All rights reserved. Elevating iPhone protection to an art form."
+    }
+}
